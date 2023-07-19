@@ -1,0 +1,164 @@
+nav ul {
+  text-align: right;
+  background-color: #fff;
+  margin-top: -50px;
+  font-weight: bold;
+  
+}
+.bar a{
+  margin: 0px 10px;
+}
+nav{
+  display: flex;
+
+}
+nav li{
+   display: inline-block;
+  padding: 10px;
+   margin: 20px;
+   padding-top: 20px;
+}
+nav a:active{
+   padding-left: -150px;
+   color: black;
+   text-decoration: none;
+   
+
+}
+nav img{
+   font-weight: bold;
+   height: 40px;
+   width: 90px;
+   margin-left: 50px;
+   padding-top: -10px;
+}
+.bar{
+  width: 50%;
+  margin-left: auto;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.carre-contenu {
+  color: white;
+    border-right: 1px solid #8e86b5;
+    border-bottom: 1px solid #8e86b5;
+    padding: 50px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 80px;
+  }
+  
+  .carre-contenu h2 {
+    margin-top: 30px;
+  }
+  
+  .carre-contenu ul {
+    margin-top: 30px;
+  }
+  
+  .carre-contenu + div {
+    text-align: center;
+  }
+  
+  .a-propos-main {
+    margin: auto;
+    width: 100%;
+  
+  }
+  .bar {
+    text-align: right;
+  }
+   a{
+    margin-bottom: 20px;
+  }
+  
+  .con table {
+    color: white;
+    text-align: center;
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+   margin-top: -50px;
+
+
+  
+  }
+  tbody,thead{
+        
+           align-items: center;
+           
+  }
+  
+  td,
+  th {
+    color: white;
+    padding: 25px;
+    border: 1px solid #a5b4fc;
+  }
+  
+  td {
+    padding: 80px;
+  }
+  
+  h2 {
+    margin-bottom: 80px;
+  }
+  
+  h1{
+    color: #a5b4fc;
+    font-size: 50px;
+    text-align: center;
+  
+  }
+  h2 {
+    text-align: center;
+    padding-bottom: 30px;
+    
+  }
+
+  .wrap{
+    background-color: rgb(28, 28, 50);
+    color: white;
+    padding: 50px;
+   margin-right: -50px;
+   margin-right: -70px;
+  }
+.ct{
+  width: 100%;
+  height: 90px;
+}
+
+.cta a{
+  width: 100%;
+  height:   80px;
+}
+
+  .cta { 
+    background-color: rgb(138, 98, 173);;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 5px;
+    color: rgb(241, 241, 244);
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    
+  }
+
+.sa {
+  display: flex;
+  padding-left: 90%;
+  gap: 25px;
+  position: relative;
+bottom: 10px;
+  
+  
+}
+.lien{
+  position: relative;
+  top: 25px;
+  padding: 70px;
+
+}
